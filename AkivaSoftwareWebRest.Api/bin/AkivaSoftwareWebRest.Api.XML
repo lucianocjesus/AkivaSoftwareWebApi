@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AkivaSoftwareWebRest.Api</name>
+    </assembly>
+    <members>
+        <member name="T:AkivaSoftwareWebRest.Api.Controllers.UserController">
+            <summary>
+            Controlador Principal do Usuario.
+            </summary>
+        </member>
+        <member name="M:AkivaSoftwareWebRest.Api.Controllers.UserController.#ctor">
+            <summary>
+            Construtor do controller Usuario.
+            </summary>
+        </member>
+        <member name="M:AkivaSoftwareWebRest.Api.Controllers.UserController.Get">
+            <summary>
+            Recurso que fornece uma coleção de dados de usuarios cadastrados.
+            </summary>
+            <returns>Retorna uma coleção de usuarios</returns>
+        </member>
+        <member name="M:AkivaSoftwareWebRest.Api.Controllers.UserController.Get(System.Guid)">
+            <summary>
+            Recurso que fornece uma coleção de dados de usuario de acordo com codigo.
+            </summary>
+            <param name="userId"></param>
+            <returns>Retorna uma coleção de dados de usuarios de acordo com codigo.</returns>
+        </member>
+        <member name="M:AkivaSoftwareWebRest.Api.Controllers.UserController.GetList(System.Guid)">
+            <summary>
+            Recurso que fornece uma listage de usuarios de acordo com código.
+            </summary>
+            <param name="userId"></param>
+            <returns>Retorna listagem de usuarios de acordo com código.</returns>
+        </member>
+        <member name="M:AkivaSoftwareWebRest.Api.Controllers.UserController.Post(AkivaSoftwareWebRest.Api.Models.UserModelView)">
+            <summary>
+            Recurso que adiciona um novo usuario no banco de dados.
+            </summary>
+            <param name="modelView"></param>
+            <returns>Retorna mensagem de sucesso ou erro.</returns>
+        </member>
+    </members>
+</doc>

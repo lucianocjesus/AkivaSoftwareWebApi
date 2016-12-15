@@ -1,0 +1,8 @@
+D:\projetos\AkivaSoftwareWebRest\AkivaSoftwareWebRest.Domain\bin\Debug\AkivaSoftwareWebRest.Domain.dll
+D:\projetos\AkivaSoftwareWebRest\AkivaSoftwareWebRest.Domain\bin\Debug\AkivaSoftwareWebRest.Domain.pdb
+D:\projetos\AkivaSoftwareWebRest\AkivaSoftwareWebRest.Domain\obj\Debug\AkivaSoftwareWebRest.Domain.dll
+D:\projetos\AkivaSoftwareWebRest\AkivaSoftwareWebRest.Domain\obj\Debug\AkivaSoftwareWebRest.Domain.pdb
+D:\projetos\AkivaSoftwareWebApi\AkivaSoftwareWebRest.Domain\bin\Debug\AkivaSoftwareWebRest.Domain.dll
+D:\projetos\AkivaSoftwareWebApi\AkivaSoftwareWebRest.Domain\bin\Debug\AkivaSoftwareWebRest.Domain.pdb
+D:\projetos\AkivaSoftwareWebApi\AkivaSoftwareWebRest.Domain\obj\Debug\AkivaSoftwareWebRest.Domain.dll
+D:\projetos\AkivaSoftwareWebApi\AkivaSoftwareWebRest.Domain\obj\Debug\AkivaSoftwareWebRest.Domain.pdb

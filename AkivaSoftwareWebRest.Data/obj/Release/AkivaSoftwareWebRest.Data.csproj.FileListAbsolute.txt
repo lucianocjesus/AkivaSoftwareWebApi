@@ -1,0 +1,14 @@
+D:\projetos\AkivaSoftwareWebRest\AkivaSoftwareWebRest.Data\bin\Release\AkivaSoftwareWebRest.Data.dll
+D:\projetos\AkivaSoftwareWebRest\AkivaSoftwareWebRest.Data\bin\Release\AkivaSoftwareWebRest.Data.pdb
+D:\projetos\AkivaSoftwareWebRest\AkivaSoftwareWebRest.Data\bin\Release\AkivaSoftwareWebRest.Domain.dll
+D:\projetos\AkivaSoftwareWebRest\AkivaSoftwareWebRest.Data\bin\Release\AkivaSoftwareWebRest.Domain.pdb
+D:\projetos\AkivaSoftwareWebRest\AkivaSoftwareWebRest.Data\obj\Release\AkivaSoftwareWebRest.Data.csprojResolveAssemblyReference.cache
+D:\projetos\AkivaSoftwareWebRest\AkivaSoftwareWebRest.Data\obj\Release\AkivaSoftwareWebRest.Data.dll
+D:\projetos\AkivaSoftwareWebRest\AkivaSoftwareWebRest.Data\obj\Release\AkivaSoftwareWebRest.Data.pdb
+D:\projetos\AkivaSoftwareWebApi\AkivaSoftwareWebRest.Data\bin\Release\AkivaSoftwareWebRest.Data.dll
+D:\projetos\AkivaSoftwareWebApi\AkivaSoftwareWebRest.Data\bin\Release\AkivaSoftwareWebRest.Data.pdb
+D:\projetos\AkivaSoftwareWebApi\AkivaSoftwareWebRest.Data\bin\Release\AkivaSoftwareWebRest.Domain.dll
+D:\projetos\AkivaSoftwareWebApi\AkivaSoftwareWebRest.Data\bin\Release\AkivaSoftwareWebRest.Domain.pdb
+D:\projetos\AkivaSoftwareWebApi\AkivaSoftwareWebRest.Data\obj\Release\AkivaSoftwareWebRest.Data.csprojResolveAssemblyReference.cache
+D:\projetos\AkivaSoftwareWebApi\AkivaSoftwareWebRest.Data\obj\Release\AkivaSoftwareWebRest.Data.dll
+D:\projetos\AkivaSoftwareWebApi\AkivaSoftwareWebRest.Data\obj\Release\AkivaSoftwareWebRest.Data.pdb

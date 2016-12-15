@@ -1,0 +1,14 @@
+D:\projetos\AkivaSoftwareWebRest\AkivaSoftwareWebRest.Data\bin\Debug\AkivaSoftwareWebRest.Data.dll
+D:\projetos\AkivaSoftwareWebRest\AkivaSoftwareWebRest.Data\bin\Debug\AkivaSoftwareWebRest.Data.pdb
+D:\projetos\AkivaSoftwareWebRest\AkivaSoftwareWebRest.Data\bin\Debug\AkivaSoftwareWebRest.Domain.dll
+D:\projetos\AkivaSoftwareWebRest\AkivaSoftwareWebRest.Data\bin\Debug\AkivaSoftwareWebRest.Domain.pdb
+D:\projetos\AkivaSoftwareWebRest\AkivaSoftwareWebRest.Data\obj\Debug\AkivaSoftwareWebRest.Data.csprojResolveAssemblyReference.cache
+D:\projetos\AkivaSoftwareWebRest\AkivaSoftwareWebRest.Data\obj\Debug\AkivaSoftwareWebRest.Data.dll
+D:\projetos\AkivaSoftwareWebRest\AkivaSoftwareWebRest.Data\obj\Debug\AkivaSoftwareWebRest.Data.pdb
+D:\projetos\AkivaSoftwareWebApi\AkivaSoftwareWebRest.Data\bin\Debug\AkivaSoftwareWebRest.Data.dll
+D:\projetos\AkivaSoftwareWebApi\AkivaSoftwareWebRest.Data\bin\Debug\AkivaSoftwareWebRest.Data.pdb
+D:\projetos\AkivaSoftwareWebApi\AkivaSoftwareWebRest.Data\bin\Debug\AkivaSoftwareWebRest.Domain.dll
+D:\projetos\AkivaSoftwareWebApi\AkivaSoftwareWebRest.Data\bin\Debug\AkivaSoftwareWebRest.Domain.pdb
+D:\projetos\AkivaSoftwareWebApi\AkivaSoftwareWebRest.Data\obj\Debug\AkivaSoftwareWebRest.Data.csprojResolveAssemblyReference.cache
+D:\projetos\AkivaSoftwareWebApi\AkivaSoftwareWebRest.Data\obj\Debug\AkivaSoftwareWebRest.Data.dll
+D:\projetos\AkivaSoftwareWebApi\AkivaSoftwareWebRest.Data\obj\Debug\AkivaSoftwareWebRest.Data.pdb
